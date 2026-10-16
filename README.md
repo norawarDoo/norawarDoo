@@ -1,5 +1,5 @@
-::: {align="center"}
-# สวัสดีครับ 👋 ผม ธรวัฒน์ ฤดูการดี
+
+# สวัสดีครับ 👋 ผม นรวัฒน์ ดูการดี
 
 ### Computer Science Student \| Frontend Developer \| Aspiring Full Stack Developer
 
