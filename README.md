@@ -104,11 +104,10 @@ interface. - **Technologies:** React, HTML, CSS, JavaScript, Figma
 
 หากสนใจพูดคุย แลกเปลี่ยนความรู้ หรือร่วมทำโปรเจกต์ สามารถติดต่อผ่านช่องทางด้านล่างได้
 
--   **GitHub:** [ใส่ลิงก์โปรไฟล์ GitHub ของคุณ](https://github.com/)
--   **Email:** ใส่อีเมลสำหรับติดต่อที่ต้องการเผยแพร่
+-   **GitHub:** [https://github.com/norawarDoo](https://github.com/norawarDoo)
+-   **Email:** hxuxbcud@gmail.com
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 *Thanks for visiting my profile! Feel free to explore my repositories.*
-:::
+
