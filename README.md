@@ -12,7 +12,7 @@
 
 ```js
 const norawat = {
-    role: "CS Student → Full Stack Developer",
+    role: "CSI Student → Full Stack Developer",
     code: ["JavaScript", "Python", "HTML", "CSS"],
     tools: ["React", "Node.js", "Express", "Tailwind", "Figma"],
     databases: ["MongoDB", "MySQL", "SQL Server"],
